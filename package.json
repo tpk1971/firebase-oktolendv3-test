@@ -1,0 +1,20 @@
+{
+  "name": "firebase-oktolendv3-test",
+  "version": "1.0.0",
+  "description": "Test app for new fastlink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TPK",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "jsrsasign": "^8.0.12"
+  }
+}
